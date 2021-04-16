@@ -50,7 +50,7 @@ additional_links:
 about_profile_image: image/headshot_small.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi I am a data scientist at Aetna, CVS Health and really interested in Healthcare to improve people's health. My work is centered around opportunity sizing from claims encouter and pharmacy data for improving medical cost savings.
-  I am most skilled in:
+  I am most skilled in: Re
 
 content:
   - title: Projects # Title for the section
