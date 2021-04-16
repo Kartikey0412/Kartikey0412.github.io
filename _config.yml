@@ -28,13 +28,13 @@ linkedin_username: KARTIKEY GROVER
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-Google_scholar_username: Kartikey Grover
+# Google_scholar_username: Kartikey Grover
 
-# Additional icon links
+Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Google Scholar
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://scholar.google.com/citations?hl=en&user=hAt9TBwAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: /images/headshot_small.jpg
+about_profile_image: images/headshot_small.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi I am a data scientist at Aetna, CVS Health and really interested in Healthcare to improve people's health. My work is centered around opportunity sizing from claims encouter and pharmacy data for improving medical cost savings.
   I am most skilled in:
