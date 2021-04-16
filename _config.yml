@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Kartikey Grover
+title: Data Scientist
+email: kg458@cornell.edu
+website: 
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -21,8 +21,8 @@ github_username:  sproogen
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: 
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
