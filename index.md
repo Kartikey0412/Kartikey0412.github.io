@@ -1,5 +1,5 @@
 ## Kartikey Grover
-![Image](~/Desktop/headshot_small.jpg)
+![Image](/image/headshot_small.jpg)
 
 [Linkedin](https://www.linkedin.com/in/kartikey-grover-85a16382/)\
 [Google scholar](https://scholar.google.com/citations?hl=en&user=hAt9TBwAAAAJ)\
