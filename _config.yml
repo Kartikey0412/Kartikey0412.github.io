@@ -57,8 +57,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Six Sigma Black Belt 
+        link: https://docs.google.com/document/d/1JsqiwN35bfKNJT97pZnZG3DLK1x5rF08m-aK5hlSa1M/edit
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
