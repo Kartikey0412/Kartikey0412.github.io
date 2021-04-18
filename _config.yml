@@ -25,7 +25,7 @@ github_username:  Kartikey0412
 linkedin_username: kg458@cornell.edu
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: Kartikey Grover
+# youtube_username: Kartikey Grover
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 # Google_scholar_username: Kartikey Grover
@@ -33,7 +33,7 @@ youtube_username: Kartikey Grover
 # Additional icon links
 additional_links:
 - title: Google Scholar
-  icon: fas fa-globe
+  icon: fas fa-book
   url: https://scholar.google.com/citations?hl=en&user=hAt9TBwAAAAJ
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -49,8 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: image/IMG_0825.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi I am a data scientist at Aetna, CVS Health and really interested in Healthcare to improve people's health. My work is centered around opportunity sizing from claims encouter and pharmacy data for improving medical cost savings.
-  I am most skilled in: Re
+  I am a data scientist at Aetna, CVS Health and really interested in Healthcare to improve people's health. My work is centered around opportunity sizing from encouter and pharmacy data for improving medical cost savings in the form oh health campaigns targeting members most likely to benefit from the outreach programs. 
 
 content:
   - title: Projects # Title for the section
@@ -80,24 +79,21 @@ content:
         # link_text: boringcompany.com
         sub_title: Data Scientist
         caption: Sept 2019 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products 
+        #quote: >
+         # Solving 21st century problems by diging holes and making game changing products 
         description: | # this will include new lines to allow paragraphs
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Cornell University
+        caption: 2015 - 2016
+        sub_title: Master of Engineering Biomedical Engineering
+        #quote: >
+         # Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
