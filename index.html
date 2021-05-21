@@ -461,16 +461,10 @@
       document.getElementById("notify_me").style.visibility="visible";
       document.getElementById("notify_outer").style.visibility="visible";
       var location = "./assets/img/";
-      var cars = ["hero-bg.jpg", "portfolio-details-1.jpg", "profile-img.jpg"];
+      var certs = ["certificate_0.jpg", "certificate_1.jpg", "certificate_2.jpg", "certificate_3.jpg",, "certificate_4.jpg",];
       var output = document.getElementById('output_image');
-      if(value==1){
-          
-          output.src = location+cars[0];
-      }else if(value==2){
-          output.src = location+cars[1];
-      }else if(value=3){
-          output.src = location+cars[2];
-        }
+      output.src = location+certs[value];
+ 
     }
     function close_me(){
         document.getElementById("notify_me").style.display="none";
