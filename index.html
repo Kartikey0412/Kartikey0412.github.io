@@ -72,6 +72,7 @@
             <li class="active"><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li> -->
             <li ><a href="#certificates"><i class="bx bx-server"></i> Certificates</a></li>
             <li ><a href="#video"><i class="bx bxs-video"></i> My Work and Video</a></li>
+            <li ><a href="hobbies.html#hobbie"><i class="bx bx-game"></i> Hobbies and Interest</a></li>
             <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
   
         </ul>
@@ -427,7 +428,7 @@
                 </div>
                 <div class="form-group col-md-6">
                   <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="email" id="sender" data-rule="email" data-msg="Please enter a valid email" />
                   <div class="validate"></div>
                 </div>
               </div>
@@ -438,15 +439,15 @@
               </div>
               <div class="form-group">
                 <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
+                <textarea class="form-control" name="message" id="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
+                <div class="loading">Loading</div><!-- 
+                <div class="error-message"></div> -->
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button type="submit" onclick="sendEmail()">Send Message</button></div>
             </form>
           </div>
 
@@ -464,7 +465,7 @@
         &copy; Copyright <strong><span>Grover</span></strong>
       </div> -->
       <div class="credits">
-        Thanks You for viisiting !
+        Thanks You for visiting !
       </div>
     </div>
   </footer><!-- End  Footer -->
@@ -494,7 +495,7 @@
       document.getElementById("notify_me").style.visibility="visible";
       document.getElementById("notify_outer").style.visibility="visible";
       var location = "./assets/img/";
-      var certs = ["certificate_0.jpg", "certificate_1.jpg", "certificate_2.jpg", "certificate_3.jpg",, "certificate_4.jpg",];
+      var certs = ["certificate_0.jpg", "certificate_1.jpg", "certificate_2.jpg", "certificate_3.jpg", "certificate_4.jpg",];
       var output = document.getElementById('output_image');
       output.src = location+certs[value];
  
@@ -504,6 +505,7 @@
         document.getElementById("notify_outer").style.visibility="hidden";
     }
   </script>
+
 </body>
 
 </html>
